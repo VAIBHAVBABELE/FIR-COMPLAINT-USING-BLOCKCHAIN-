@@ -1,6 +1,5 @@
 # Project Title: FIR Complaint System Using Blockchain
 
-# Team Name: THE CYBER SQUAD
 
 *Admin*: VAIBHAV BABELE
 
